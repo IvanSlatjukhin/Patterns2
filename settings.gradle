@@ -1,0 +1,4 @@
+rootProject.name = 'Petterns2'
+include 'src'
+include 'src'
+
